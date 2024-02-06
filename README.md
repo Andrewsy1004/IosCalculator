@@ -11,4 +11,4 @@ iOS Calculator is a mobile application developed using TypeScript and React Nati
 
 ## 🎥 Demo
 
-Check out the demo video [here](https://drive.google.com/file/d/1YIc7fu3CLmdNP8dp7BjHwE68qxnQI-HG/view?usp=sharing) to see iOS Calculator in action.
+![Demo](https://drive.google.com/uc?export=view&id=1YIc7fu3CLmdNP8dp7BjHwE68qxnQI-HG)
